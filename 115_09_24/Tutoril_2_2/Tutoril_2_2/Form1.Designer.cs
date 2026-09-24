@@ -28,13 +28,35 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.messmageButton = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // messmageButton
+            // 
+            this.messmageButton.Font = new System.Drawing.Font("新細明體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.messmageButton.Location = new System.Drawing.Point(266, 125);
+            this.messmageButton.Name = "messmageButton";
+            this.messmageButton.Size = new System.Drawing.Size(218, 109);
+            this.messmageButton.TabIndex = 0;
+            this.messmageButton.Text = "顯示訊息";
+            this.messmageButton.UseVisualStyleBackColor = true;
+            this.messmageButton.Click += new System.EventHandler(this.messmageButton_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.messmageButton);
+            this.Name = "Form1";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button messmageButton;
     }
 }
 

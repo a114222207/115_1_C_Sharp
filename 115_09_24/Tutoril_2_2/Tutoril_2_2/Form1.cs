@@ -16,5 +16,10 @@ namespace Tutoril_2_2
         {
             InitializeComponent();
         }
+
+        private void messmageButton_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("中秋節快樂");
+        }
     }
 }

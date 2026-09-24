@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\m303\\Documents\\GitHub\\115_1_C_Sharp\\115_09_24\\Tutoril_2_2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EED7E8F4-D3F0-45EC-8417-346819D9FD04}|Tutoril_2_2\\Tutoril_2_2.csproj|c:\\users\\m303\\documents\\github\\115_1_c_sharp\\115_09_24\\tutoril_2_2\\tutoril_2_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED7E8F4-D3F0-45EC-8417-346819D9FD04}|Tutoril_2_2\\Tutoril_2_2.csproj|solutionrelative:tutoril_2_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EED7E8F4-D3F0-45EC-8417-346819D9FD04}|Tutoril_2_2\\Tutoril_2_2.csproj|c:\\users\\m303\\documents\\github\\115_1_c_sharp\\115_09_24\\tutoril_2_2\\tutoril_2_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EED7E8F4-D3F0-45EC-8417-346819D9FD04}|Tutoril_2_2\\Tutoril_2_2.csproj|solutionrelative:tutoril_2_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Documents\\GitHub\\115_1_C_Sharp\\115_09_24\\Tutoril_2_2\\Tutoril_2_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Tutoril_2_2\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Documents\\GitHub\\115_1_C_Sharp\\115_09_24\\Tutoril_2_2\\Tutoril_2_2\\Form1.cs",
+              "RelativeToolTip": "Tutoril_2_2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T09:41:24.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "C:\\Users\\m303\\Documents\\GitHub\\115_1_C_Sharp\\115_09_24\\Tutoril_2_2\\Tutoril_2_2\\Form1.cs",
               "RelativeDocumentMoniker": "Tutoril_2_2\\Form1.cs",
@@ -27,10 +44,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-24T09:12:09.629Z",
               "EditorCaption": " [\u8A2D\u8A08]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
